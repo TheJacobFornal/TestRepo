@@ -1,0 +1,10 @@
+Git Learning Notes
+==================
+
+Key commands to remember:
+  git init         - start a new repo
+  git add .        - stage all changes
+  git commit -m "" - save a snapshot
+  git branch name  - create a branch
+  git checkout     - switch branches
+  git merge name   - merge a branch
